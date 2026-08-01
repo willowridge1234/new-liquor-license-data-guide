@@ -350,3 +350,4 @@ Other free workflows and guides we publish:
 - [chicago-food-service-license-data-guide](https://github.com/willowridge1234/chicago-food-service-license-data-guide) — Guide + tool — building a lead list from Chicago food-service licence records
 - [wild-apricot-directory-export-guide](https://github.com/willowridge1234/wild-apricot-directory-export-guide) — Guide — exporting a public Wild Apricot member directory
 - [membershipworks-member-directory-export-guide](https://github.com/willowridge1234/membershipworks-member-directory-export-guide) — Guide + tool — exporting a public MembershipWorks member directory
+- [chambermaster-directory-export-guide](https://github.com/willowridge1234/chambermaster-directory-export-guide) — Guide — exporting a public ChamberMaster or GrowthZone member directory
